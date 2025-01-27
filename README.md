@@ -25,7 +25,7 @@ Make sure you have the following installed on your system:
 ### Steps
 1. Clone the repository:
    ```bash
-               https://github.com/MuhammadDevs/Face_Recognization_Attendence_System_In_Python/tree/master 
+   https://github.com/MuhammadDevs/Face_Recognization_Attendence_System_In_Python/tree/master 
    ```
 2. Navigate to the project directory:
    ```bash
@@ -45,5 +45,5 @@ Make sure you have the following installed on your system:
 ## Tech Stack
 - **Programming Language**: Python
 - **Libraries**: OpenCV, NumPy, dlib, face_recognition
-- **Database**: Exel
+- **Database**: Excel
 
